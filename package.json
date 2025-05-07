@@ -36,7 +36,7 @@
     "@types/prismjs": "^1.26.4",
     "@vitejs/plugin-vue": "^5.0.5",
     "@vue/tsconfig": "^0.5.1",
-    "concurrently": "^8.2.2",
+    "concurrently": "^9.0.0",
     "glob": "^10.4.3",
     "html-rewriter-wasm": "^0.4.1",
     "lz-string": "^1.5.0",
@@ -45,7 +45,7 @@
     "prismjs": "^1.29.0",
     "tsm": "2.3.0",
     "typescript": "~5.5.3",
-    "vite": "^5.3.3",
+    "vite": "^5.4.19",
     "vue-tsc": "^2.0.26",
     "wrangler": "3.63.1"
   },
